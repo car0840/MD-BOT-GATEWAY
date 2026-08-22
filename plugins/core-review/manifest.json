@@ -1,0 +1,13 @@
+{
+  "id": "core-review",
+  "name": "评审查询助手",
+  "version": "1.0.0",
+  "author": "Mir Dev Studio",
+  "description": "内置插件：查工单 / 查邮箱 / 查 QQ，对接评审系统后端",
+  "api_version": 1,
+  "entry": "main.py",
+  "permissions": ["send_message", "http"],
+  "hooks": ["on_message"],
+  "builtin": true,
+  "repository": ""
+}
