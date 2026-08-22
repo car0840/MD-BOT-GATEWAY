@@ -88,7 +88,7 @@ python qqbot_gateway.py
 
 ## 安全策略
 
-发现安全漏洞请参考 [SECURITY.md](SECURITY.md) 报告，请勿公开披露。
+发现安全漏洞请参考文档内报告，请勿公开披露。
 
 ## 更新与回滚
 
